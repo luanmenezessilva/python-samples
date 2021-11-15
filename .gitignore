@@ -1,5 +1,16 @@
+# INICIO
+# MEUS ARQUIVOS
+#
+
 # VirtualEnv Files
 /jwt
+
+# VsCode Files
+./vscode
+
+#
+# FIM
+# MEUS ARQUIVOS
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
