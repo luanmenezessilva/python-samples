@@ -35,12 +35,12 @@ def unprotected():
 def protected():
     return jsonify({'message': 'This is only for people with valid tokens'}), 200
 
-# Route para conseguir autorização
+# Route para conseguir autorizaÃ§Ã£o
 @app.route('/login')
 def login():
     auth = request.authorization
 
-    if auth and auth.password == '1':
+    if auth and auth.password == 'password':
         token = jwt.encode({'user': auth.username, 'exp': datetime.datetime.utcnow() + datetime.timedelta(minutes=30)}, app.config['SECRET_KEY'])
         return jsonify({'token': token.decode('UTF-8')})
 
