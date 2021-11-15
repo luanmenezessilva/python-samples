@@ -35,7 +35,7 @@ def unprotected():
 def protected():
     return jsonify({'message': 'This is only for people with valid tokens'}), 200
 
-# Route para conseguir autorizaÃ§Ã£o
+# Route para conseguir autoriza��o
 @app.route('/login')
 def login():
     auth = request.authorization
