@@ -1,4 +1,4 @@
 flask
 jsonify
 requests
-pyJWT
+PyJWT==v1.7.1
