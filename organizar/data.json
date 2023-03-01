@@ -1,0 +1,29 @@
+{
+    "dados": [
+        {
+            "familia": 1,
+            "descricao": "Familia 1",
+            "familia_pai": 0
+        },
+        {
+            "familia": 2,
+            "descricao": "Familia 2",
+            "familia_pai": 0
+        },
+        {
+            "familia": 3,
+            "descricao": "Familia 3",
+            "familia_pai": 1
+        },
+        {
+            "familia": 4,
+            "descricao": "Familia 4",
+            "familia_pai": 3
+        },
+        {
+            "familia": 5,
+            "descricao": "Familia 5",
+            "familia_pai": 0
+        }        
+    ]
+}
