@@ -4,6 +4,7 @@
 
 # VirtualEnv Files
 /jwt
+/python
 
 # VsCode Files
 /.vscode
