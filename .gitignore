@@ -1,6 +1,8 @@
 # INICIO
 # MEUS ARQUIVOS
 #
+data/ceps_searched
+data/logs
 
 # VirtualEnv Files
 /jwt

@@ -1,0 +1,116 @@
+cep,address_type,address_name,address,state,district,lat,lng,city,city_ibge,ddd
+01231011,Rua,Doutor Gabriel dos Santos,Rua Doutor Gabriel dos Santos,SP,Santa Cecília,-23.536098,-46.6595368,São Paulo,3550308,11
+01425080,Rua,Ouro Branco,Rua Ouro Branco,SP,Jardim Paulista,-23.5712433,-46.6620769,São Paulo,3550308,11
+03018010,Rua,Coronel Emídio Piedade,Rua Coronel Emídio Piedade,SP,Brás,-23.5290354,-46.6113713,São Paulo,3550308,11
+03412060,Rua,Horizonte,Rua Horizonte,SP,Vila Antonina,-23.554512,-46.5513766,São Paulo,3550308,11
+03437020,Rua,Frogolino Ferrari,Rua Frogolino Ferrari,SP,Vila Carrão,-23.5559561,-46.5271374,São Paulo,3550308,11
+03733000,Avenida,Tarumã,Avenida Tarumã,SP,Vila Pierina,-23.5116741,-46.5269242,São Paulo,3550308,11
+04055000,Rua,Fagundes Dias,Rua Fagundes Dias,SP,Saúde,-23.6171898,-46.6411517,São Paulo,3550308,11
+04203003,Rua,Bom Pastor,Rua Bom Pastor,SP,Ipiranga,-23.5901388,-46.607101,São Paulo,3550308,11
+06186030,Rua,João Luís Dutra,Rua João Luís Dutra,SP,Quitaúna,-23.5333891,-46.8114587,Osasco,3534401,11
+06502345,Rua,Japão,Rua Japão,SP,Jardim São Luís,-23.4469501,-46.9271066,Santana de Parnaíba,3547304,11
+09070590,Rua,Jaguará,Rua Jaguará,SP,Campestre,-23.6445199,-46.5491667,Santo André,3547809,11
+13086906,Avenida,"Engenheiro Luiz Antônio Laloni, 321","Avenida Engenheiro Luiz Antônio Laloni, 321",SP,Tijuco das Telhas,-22.7961951,-47.0361345,Campinas,3509502,19
+13295000,,,,SP,,-23.15246,-47.05794,Itupeva,3524006,11
+13455035,Rua,Louveira,Rua Louveira,SP,Jardim das Turmalinas,-22.7416,-47.35761,Santa Bárbara DOeste,3545803,19
+13460000,,,,SP,,-22.77953,-47.29157,Nova Odessa,3533403,19
+13465150,Rua,Presidente Vargas,Rua Presidente Vargas,SP,Vila Pavan,-22.745903,-47.3325433,Americana,3501608,19
+13468700,Rua,Izolina Geminiani Rosa,Rua Izolina Geminiani Rosa,SP,Jardim Brasília,-22.7612811,-47.3505807,Americana,3501608,19
+13477090,Rua,Antônio Nunes,Rua Antônio Nunes,SP,Campo Limpo,-22.7351812,-47.307172,Americana,3501608,19
+13477696,Rua,Realização,Rua Realização,SP,Jardim Boer I,-22.74097,-47.2920093,Americana,3501608,19
+13478280,Rua,Brasília,Rua Brasília,SP,Jardim da Colina,-22.7401107,-47.3157777,Americana,3501608,19
+14026578,Rua,Doutor Mário de Assis Moura,Rua Doutor Mário de Assis Moura,SP,Nova Aliança,-21.2147769,-47.81934,Ribeirão Preto,3543402,16
+14091310,Rua,Aldo Focosi,Rua Aldo Focosi,SP,Presidente Médici,-21.1909576,-47.7837205,Ribeirão Preto,3543402,16
+14098558,Rua,Flávio Canesin,Rua Flávio Canesin,SP,Recreio das Acácias,-21.2286562,-47.7721721,Ribeirão Preto,3543402,16
+14403770,Rua,Ana Damasceno de Pádua,Rua Ana Damasceno de Pádua,SP,Jardim Noêmia,-20.5573837,-47.3711115,Franca,3516200,16
+14940000,,,,SP,,-21.75885,-48.82862,Ibitinga,3519600,16
+17501360,Avenida,Monte Carmelo,Avenida Monte Carmelo,SP,Fragata,-22.2246357,-49.9397605,Marília,3529005,14
+17606290,Rua,São Jorge,Rua São Jorge,SP,Jardim Nossa Senhora de Fátima,-21.9258062,-50.5290284,Tupã,3555000,14
+18070705,Rua,Doutor Fernando Soares Fernandes,Rua Doutor Fernando Soares Fernandes,SP,Vila Nova Sorocaba,-23.4740705,-47.4831102,Sorocaba,3552205,15
+18530000,,,,SP,,-23.10149,-47.71549,Tietê,3554508,15
+20510130,Rua,Maria Amália,Rua Maria Amália,RJ,Tijuca,-22.926961,-43.2422458,Rio de Janeiro,3304557,21
+20755270,Rua,Almeida Bastos,Rua Almeida Bastos,RJ,Encantado,-22.891252,-43.2994442,Rio de Janeiro,3304557,21
+21941070,Rua,Aylton Vasconcelos,Rua Aylton Vasconcelos,RJ,Jardim Guanabara,-22.808588,-43.2120295,Rio de Janeiro,3304557,21
+22780070,Estrada,de Camorim,Estrada de Camorim,RJ,Jacarepaguá,-22.9693786,-43.426186,Rio de Janeiro,3304557,21
+28013266,Rua,dos Goytacazes,Rua dos Goytacazes,RJ,Parque Turf Club,-21.768614,-41.3194588,Campos dos Goytacazes,3301009,22
+29103610,Rua,Rosa de Prata,Rua Rosa de Prata,ES,Guaranhuns,-20.378375,-40.3223081,Vila Velha,3205200,27
+29140320,Rua,Honduras,Rua Honduras,ES,Jardim América,-20.3356757,-40.368023,Cariacica,3201308,27
+29146100,Rua,Luciano Lube,Rua Luciano Lube,ES,Campo Grande,-20.3390038,-40.3894147,Cariacica,3201308,27
+30820272,Avenida,Abílio Machado,Avenida Abílio Machado,MG,Inconfidência,-19.9011485,-44.0044914,Belo Horizonte,3106200,31
+31160410,Rua,Conde de Monte Cristo,Rua Conde de Monte Cristo,MG,Ipiranga,-19.8786471,-43.9314237,Belo Horizonte,3106200,31
+33400000,,,,MG,,-19.62842,-43.88889,Lagoa Santa,3137601,31
+34004840,Alameda,Perimetral das Orquídeas,Alameda Perimetral das Orquídeas,MG,Bosque Residencial do Jambreiro,-19.9972699,-43.9052959,Nova Lima,3144805,31
+35500448,Rua,Mateus Leme,Rua Mateus Leme,MG,Porto Velho,-20.1544644,-44.8610983,Divinópolis,3122306,37
+35502437,Rua,José Fernandes Xavier,Rua José Fernandes Xavier,MG,Dulphe Pinto de Aguiar,-20.1458645,-44.2028,Divinópolis,3122306,37
+36760000,,,,MG,,-21.36575,-42.47606,Laranjal,3138005,32
+36790000,,,,MG,,-21.19475,-42.61129,Miraí,3142205,32
+40015110,Rua,Torquato Bahia,Rua Torquato Bahia,BA,Comércio,-12.9696573,-38.5100813,Salvador,2927408,71
+41770235,Rua,Doutor José Peroba,Rua Doutor José Peroba,BA,Stiep,-12.9903212,-38.4479135,Salvador,2927408,71
+44245000,,,,BA,,-12.32896,-38.76513,Conceição do Jacuípe,2908507,75
+45027520,Rua,José Ferreira de Farias,Rua José Ferreira de Farias,BA,Boa Vista,-14.8738742,-40.8306573,Vitória da Conquista,2933307,77
+45200260,Avenida,Rio Branco,Avenida Rio Branco,BA,Centro,-13.8589958,-40.0837192,Jequié,2918001,73
+51020020,Avenida,Conselheiro Aguiar,Avenida Conselheiro Aguiar,PE,Boa Viagem,-8.1109937,-34.8914817,Recife,2611606,81
+52020000,Avenida,Governador Agamenon Magalhães,Avenida Governador Agamenon Magalhães,PE,Espinheiro,-8.0472928,-34.8914793,Recife,2611606,81
+55006030,Praça,Coronel Porto,Praça Coronel Porto,PE,Nossa Senhora das Dores,-8.2881186,-35.9756912,Caruaru,2604106,81
+57037330,Rua,Doutor Antônio de Góes Barbosa,Rua Doutor Antônio de Góes Barbosa,AL,Mangabeiras,-9.6542042,-35.722153,Maceió,2704302,82
+58010181,Rua,da República,Rua da República,PB,Centro,-7.1213121,-34.889094,João Pessoa,2507507,83
+58865000,,,,PB,,-6.48579,-37.44948,São Bento,2513901,83
+59380000,,,,RN,,-6.25709,-36.512,Currais Novos,2403103,84
+60025060,Rua,Barão do Rio Branco,Rua Barão do Rio Branco,CE,Centro,-3.7335814,-38.5305345,Fortaleza,2304400,85
+60810023,Rua,Dona Federalina Augusto Lima,Rua Dona Federalina Augusto Lima,CE,Guararapes,-3.7643272,-38.4853202,Fortaleza,2304400,85
+61760000,,,,CE,,-3.89077,-38.45014,Eusébio,2304285,85
+64048152,Rua,das Orquídeas,Rua das Orquídeas,PI,Jóquei,-5.0722226,-42.7936414,Teresina,2211001,86
+64048390,Rua,Professora Ana Cordeiro,Rua Professora Ana Cordeiro,PI,Ininga,-5.0555311,-42.7837206,Teresina,2211001,86
+64049526,Avenida,Nossa Senhora de Fátima,Avenida Nossa Senhora de Fátima,PI,Fátima,-5.0686615,-42.7928746,Teresina,2211001,86
+66635110,Rodovia,Augusto Montenegro,Rodovia Augusto Montenegro,PA,Parque Verde,-1.3498161,-48.4527206,Belém,1501402,91
+66635245,Alameda,Floresta,Alameda Floresta,PA,Parque Verde,-1.3614392,-48.4440625,Belém,1501402,91
+67030585,Rua,João Batista,Rua João Batista,PA,Centro,-1.3484769,-48.3710799,Ananindeua,1500800,91
+69010050,Rua,Barroso,Rua Barroso,AM,Centro,-3.1325891,-60.0232193,Manaus,1302603,92
+69047180,Rua,Messejana,Rua Messejana,AM,Redenção,-3.0542472,-60.0350921,Manaus,1302603,92
+70743520,CLN,107 Bloco B,CLN 107 Bloco B,DF,Asa Norte,-15.7652295,-47.8855431,Brasília,5300108,61
+72145407,QNM,34 Conjunto G,QNM 34 Conjunto G,DF,Taguatinga Norte ,-15.810001,-48.090877,Brasília,5300108,61
+74280280,Rua,C266,Rua C266,GO,Nova Suiça,-16.7188349,-49.2737973,Goiânia,5208707,62
+74350020,Alameda,Abel Soares de Castro,Alameda Abel Soares de Castro,GO,Setor Faiçalville,-16.7441851,-49.3173623,Goiânia,5208707,62
+74475742,Rua,ED5,Rua ED5,GO,Setor Estrela Dalva,-16.59786,-49.324961,Goiânia,5208707,62
+74510020,Avenida,Honestino Guimarães,Avenida Honestino Guimarães,GO,Setor Campinas,-16.6703589,-49.2905171,Goiânia,5208707,62
+75230000,,,,GO,,-17.1988,-48.70371,Cristianópolis,5206305,64
+76960971,Avenida,"Porto Velho, 2302","Avenida Porto Velho, 2302",RO,Centro,-11.4407616,-61.4463374,Cacoal,1100049,69
+76980002,Avenida,Marechal Rondon,Avenida Marechal Rondon,RO,Centro ,-12.7340884,-60.159259,Vilhena,1100304,69
+77006720,Quadra,ARNE 71 Alameda 10,Quadra ARNE 71 Alameda 10,TO,Plano Diretor Norte,-10.1656446,-48.3343132,Palmas,1721000,63
+78048455,Rua,Desembargador Trigo de Loureiro,Rua Desembargador Trigo de Loureiro,MT,Alvorada,-15.5847432,-56.08462,Cuiabá,5103403,65
+78085100,Avenida,Itaparica,Avenida Itaparica,MT,Coophema,-15.6331557,-56.0537016,Cuiabá,5103403,65
+79400000,,,,MS,,-18.5026,-54.74138,Coxim,5003306,67
+81280330,Rua,Professor Pedro Viriato Parigot de Souza,Rua Professor Pedro Viriato Parigot de Souza,PR,Cidade Industrial,-25.4443623,-49.3553101,Curitiba,4106902,41
+82320130,Rua,Acelino Grande,Rua Acelino Grande,PR,Santa Felicidade,-25.4047266,-49.3446536,Curitiba,4106902,41
+82540070,Rua,Manoel de Souza Dias Negrão,Rua Manoel de Souza Dias Negrão,PR,Boa Vista,-25.390067,-49.2508064,Curitiba,4106902,41
+85802190,Rua,Visconde do Rio Branco,Rua Visconde do Rio Branco,PR,Neva,-24.9700356,-53.4724891,Cascavel,4104808,45
+86020381,Rua,Pio XII,Rua Pio XII,PR,Centro,-23.312117,-51.1664282,Londrina,4113700,43
+86050482,Rua,Antônio Pisicchio,Rua Antônio Pisicchio,PR,Gleba Fazenda Palhano,-23.3335999,-51.1761628,Londrina,4113700,43
+86708320,Rua,Jaó,Rua Jaó,PR,Vila São João,-23.4158031,-51.4383856,Arapongas,4101507,43
+86720000,,,,PR,,-23.32667,-51.55944,Sabáudia,4122701,44
+87013250,Rua,Arthur Thomas,Rua Arthur Thomas,PR,Zona 01,-23.4247276,-51.9374143,Maringá,4115200,44
+87053376,Rua,Antônio José Beraldo,Rua Antônio José Beraldo,PR,Jardim Catedral,-23.4590454,-51.9149961,Maringá,4115200,44
+88230000,,,,SC,,-27.26555,-48.76789,Canelinha,4203709,48
+88306830,Avenida,Carlos Drumond de Andrade,Avenida Carlos Drumond de Andrade,SC,Praia Brava de Itajaí,-26.9559931,-48.6350351,Itajaí,4208203,47
+88319899,Área,Rural,Área Rural,SC,Área Rural de Itajaí,-26.6547957,-49.8529372,Itajaí,4208203,47
+88330376,Rua,2700,Rua 2700,SC,Centro,-26.9980455,-48.6311006,Balneário Camboriú,4202008,47
+88360000,,,,SC,,-27.08477,-48.98737,Guabiruba,4206306,47
+88914000,,,,SC,,-28.98763,-49.41856,Balneário Arroio do Silva,4201950,48
+89012200,Rua,Carlos Rischbieter,Rua Carlos Rischbieter,SC,Victor Konder,-26.9020141,-49.0670004,Blumenau,4202404,47
+89026280,Rua,Jornalista Israel Corrêa,Rua Jornalista Israel Corrêa,SC,Progresso,-26.9733018,-49.0777539,Blumenau,4202404,47
+89041400,Rua,Benedito Novo,Rua Benedito Novo,SC,Água Verde,-26.9132839,-49.1169471,Blumenau,4202404,47
+89050130,Rua,México,Rua México,SC,Ponta Aguda,-26.9120522,-49.059857,Blumenau,4202404,47
+89120000,,,,SC,,-26.82461,-49.27102,Timbó,4218202,47
+89214360,Rua,Vitória-Régia,Rua Vitória-Régia,SC,São Marcos,-26.3107025,-48.8794583,Joinville,4209102,47
+89225860,Rua,Rio do Ferro,Rua Rio do Ferro,SC,Aventureiro,-26.234331,-48.8011321,Joinville,4209102,47
+89259000,Rua,Vinte e Cinco de Julho,Rua Vinte e Cinco de Julho,SC,Vila Nova,-26.4962622,-49.0791732,Jaraguá do Sul,4208906,47
+89610000,,,,SC,,-27.17508,-51.49584,Herval DOeste,4206702,49
+89840000,,,,SC,,-26.91301,-52.70359,Coronel Freitas,4204400,49
+91030300,Rua,Morretes,Rua Morretes,RS,Santa Maria Goretti,-30.0059374,-51.1776889,Porto Alegre,4314902,51
+91060420,Rua,Walt Disney,Rua Walt Disney,RS,São Sebastião,-30.0050123,-51.1433522,Porto Alegre,4314902,51
+95096000,Avenida,Rio Branco,Avenida Rio Branco,RS,Rio Branco,-29.1791936,-51.1978461,Caxias do Sul,4305108,54
+95590000,,,,RS,,-30.00849,-50.15164,Tramandaí,4321600,51
+95702050,Rua,Ernesto Casagrande,Rua Ernesto Casagrande,RS,Imigrante,-29.1737715,-51.5041593,Bento Gonçalves,4302105,54
+95905216,Rua,dos Jacarandás,Rua dos Jacarandás,RS,Montanha,-29.4499643,-51.9856801,Lajeado,4311403,51
+98905000,,,,RS,,-27.83436,-54.05505,Alegria,4300455,55
+99500000,,,,RS,,-28.27618,-52.77354,Carazinho,4304705,54
